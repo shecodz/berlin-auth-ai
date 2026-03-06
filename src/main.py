@@ -1,1 +1,0 @@
-print("Berlin Auth AI")
